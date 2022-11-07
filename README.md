@@ -8,7 +8,7 @@
 > 可參考以下連結說明。  
 > *Bot.py* & *line 17*：變數 ***TOKEN*** 記得更換為自己的機器人 token  
 
-- YouTube：...
+- YouTube：N
 - Paper：https://ithelp.ithome.com.tw/articles/10290946
 
 ## 配置要求 *Configuration Requirements*
